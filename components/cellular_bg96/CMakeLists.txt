@@ -1,0 +1,12 @@
+idf_component_register(
+	SRC_DIRS
+		"."
+		"FreeRTOS-Cellular-Interface/source" 
+		"FreeRTOS-Cellular-Interface/modules/bg96"
+	INCLUDE_DIRS
+		"."
+		"FreeRTOS-Cellular-Interface/source/include"
+		"FreeRTOS-Cellular-Interface/source/include/common"
+		"FreeRTOS-Cellular-Interface/source/include/private"
+		"FreeRTOS-Cellular-Interface/source/interface"
+)

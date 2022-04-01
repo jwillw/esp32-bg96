@@ -1,0 +1,4 @@
+[submodule "components/cellular_bg96/FreeRTOS-Cellular-Interface"]
+	path = components/cellular_bg96/FreeRTOS-Cellular-Interface
+	url = https://github.com/jwillw/FreeRTOS-Cellular-Interface.git
+	branch = esp32
